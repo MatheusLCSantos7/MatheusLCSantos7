@@ -6,7 +6,32 @@
 - 💞️ Estou procurando fazer parte de projetos e comunidades que possam me alavancar assim como eu vos proponho.
 - 📧 Contate-me no email: matheuslcsantosbh@gmai.com
  
-<!---
-MathehsLcsantos7/MathehsLcsantos7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ##
+<div>
+  <a href="https://beacons.ai/MatheusLCSantos7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLCSantos7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLCSantos7&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div> 
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+ 
+ ##
+ 
+<div>
+  <a href="https://github.com/MatheusLCSantos7/MathehsLcsantos7" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+</div>
+ 
+##
+ 
+<div>
+  <a href="https://instagram.com/matheus_lcsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:matheuslcsantosnh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-santos-537814223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/MatheusLcsant?t=tgwSeMg7Kl-mitHpBk3Irg&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+ 
