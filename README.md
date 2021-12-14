@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/matheus-santos-537814223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/MatheusLcsant?t=tgwSeMg7Kl-mitHpBk3Irg&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/MatheusLCSantos7/MatheusLCSantos7/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MatheusLCSantos7/MatheusLCSantos7/blob/output/github-contribution-grid-snake.svg)
 
 </div>
  
