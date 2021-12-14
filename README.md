@@ -23,7 +23,7 @@
  ##
  
 <div>
-  <a href="https://github.com/MatheusLCSantos7/MathehsLcsantos7" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/MatheusLCSantos7/primeiroSite" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 </div>
  
 ##
