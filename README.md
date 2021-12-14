@@ -1,9 +1,9 @@
 <div>
-  <a href="https://github.com/MatheusLCSantos7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/MatheusLCSantos7" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
-## Olá!! Sou o Matheus LeoCaneiro dos Santos
-
+<h1>Olá!! Sou o Matheus LeoCaneiro dos Santos</h1>
+ 
+##
 - 🔥 Atualmente estou aprendendo Javascript
 - 👝 Estou interessado em aprender e seguir uma carreira na área de programação!
 - 🎓 Estudando e aprendendo os fundamentos básicos aos avançados a respeito de Javascript!
@@ -11,10 +11,15 @@
 - 📧 Contate-me no email: matheuslcsantosbh@gmai.com
  
  ##
+ <br>
 <div>
-  <a href="https://github.com/MatheusLCSantos7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLCSantos7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLCSantos7&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <p align="center">
+  <p align="center">
+    <a href="https://github.com/MatheusLCSantos7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLCSantos7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLCSantos7&layout=compact&langs_count=16&theme=great-gatsby"/>
+  </p>
+  </p>
 </div> 
  
 <div style="display: inline_block"><br>
