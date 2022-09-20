@@ -4,7 +4,7 @@
 <h1>Olá!! Sou o Matheus LeoCaneiro dos Santos</h1>
  
 ##
-- 🔥 Atualmente estou aprendendo Javascript
+- 🔥 Atualmente estou cursando Análise e desenvolvimento de Sistemas na faculdade COTEMIG
 - 👝 Estou interessado em aprender e seguir uma carreira na área de programação!
 - 🎓 Estudando e aprendendo os fundamentos básicos aos avançados a respeito de Javascript!
 - 💞️ Estou procurando fazer parte de projetos e comunidades que possam me alavancar assim como eu vos proponho.
