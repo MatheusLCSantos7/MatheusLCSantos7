@@ -10,25 +10,7 @@
 - 💞️ Estou procurando fazer parte de projetos e comunidades que possam me alavancar assim como eu vos proponho.
 - 📧 Contate-me no email: matheuslcsantosbh@gmai.com
  
- ##
- <br>
-<div>
-  <p align="center">
-  <p align="center">
-    <a href="https://github.com/MatheusLCSantos7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLCSantos7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLCSantos7&layout=compact&langs_count=16&theme=great-gatsby"/>
-  </p>
-  </p>
-</div> 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Math-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
- 
- ##
+
 
  ### Meus arquivos de estudos!
  
