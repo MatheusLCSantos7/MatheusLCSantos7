@@ -5,7 +5,7 @@
 ##
 - 🔥 Atualmente estou cursando Análise e desenvolvimento de Sistemas na faculdade COTEMIG
 - 💞️ Estou procurando fazer parte de projetos e comunidades que possam me alavancar assim como eu vos proponho.
-
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="MLCs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MLCs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
