@@ -22,9 +22,6 @@
       <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
     </a>
 </p>
-
-
-<br />
 <hr>
 <h2 align="center">Languages, Frameworks and Tools 🔥</h2>
 <br />
