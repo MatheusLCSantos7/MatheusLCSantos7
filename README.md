@@ -11,6 +11,14 @@
  - 💻&nbsp;&nbsp; DEV enthusiast.
  - 💼&nbsp;&nbsp; Sigo com objetivo de me destacar com ilimitada vontade e curiosidade sobre o mundo da tecnologia!
  - ✍🏻&nbsp;&nbsp;&nbsp;Analyst and Developer for COTEMIG
+
+<h1 align="center">Projetos</h1>
+<a href="https://github.com/MatheusLCSantos7/SocielBookProject">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"alt="html" style="vertical-align:top; margin:4px">
+</a>
+
+<p align="center">
+</p>
 <br />
 <hr>
 <h2 align="center">Languages, Frameworks and Tools 🔥</h2>
