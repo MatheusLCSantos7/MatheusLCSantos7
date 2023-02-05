@@ -3,12 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Matheus+Santos;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </h1>
+<hr>
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:matheuslcsantosnh@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-leonardo-santos-537814223/)](https://www.linkedin.com/in/matheus-leonardo-santos-537814223/) 
 
- - 💻&nbsp;&nbsp; Tech enthusiast.
- - 💼&nbsp;&nbsp; Possuo básica experiência em Javascript,HTML5,CSS3,.Net Framework, C# e PowerApps, realizo projetos autônomos com objetivo de desenvolvimento técnico e busco evoluir minhas soft skills através de networks profissionais e sociais , sigo com objetivo de me destacar com ilimitada vontade e curiosidade sobre o mundo da tecnologia!
+ - 💻&nbsp;&nbsp; DEV enthusiast.
+ - 💼&nbsp;&nbsp; Sigo com objetivo de me destacar com ilimitada vontade e curiosidade sobre o mundo da tecnologia!
  - ✍🏻&nbsp;&nbsp;&nbsp;Analyst and Developer for COTEMIG
 <br />
 <hr>
@@ -37,5 +38,6 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MatheusLCSantos7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     </p>
 </details>
+<hr>
 
  ![Snake animation](https://github.com/MatheusLCSantos7/MatheusLCSantos7/blob/output/github-contribution-grid-snake.svg)
