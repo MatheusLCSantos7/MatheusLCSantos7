@@ -1,8 +1,8 @@
 <div>
   <a href="https://github.com/MatheusLCSantos7" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-##Matheus Leonardo C Santos Dev !
-
+<h1>Olá!! Sou o Matheus LeoCaneiro dos Santos</h1>
+##
 - 🔥 Atualmente estou cursando Análise e desenvolvimento de Sistemas na faculdade COTEMIG
 - 💞️ Estou procurando fazer parte de projetos e comunidades que possam me alavancar assim como eu vos proponho.
 
