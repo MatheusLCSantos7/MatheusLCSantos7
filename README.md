@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:matheuslcsantosnh@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-leonardo-santos-537814223/)](https://www.linkedin.com/in/matheus-leonardo-santos-537814223/) 
 
- - 💻&nbsp;&nbsp; DEV enthusiast.
+ - 💻&nbsp;&nbsp; Como um DEV altamente motivado e dedicado, estou comprometido em utilizar minhas habilidades técnicas e através da tecnologia alcançar um impacto positivo na vida das pessoas tornando o mundo um lugar melhor. Acredito que minha combinação de entusiasmo, humildade e força de vontade me possibilitarão transformar minha criatividade em ideias e soluções inovadoras e eficazes.
  - 💼&nbsp;&nbsp; Sigo com objetivo de me destacar com ilimitada vontade e curiosidade sobre o mundo da tecnologia!
  - ✍🏻&nbsp;&nbsp;&nbsp;Analyst and Developer for COTEMIG
  
