@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Matheus+Santos;Welcome+to+my+profile!&center=true&size=30">
+    <img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Matheus+Santos;Welcome+to+my+profile!&center=true&size=30">
+       <img width=100 src="https://user-images.githubusercontent.com/93961602/220397860-3179256c-d753-4fd5-b8da-d8917757f67b.png" /> 
   </a>
 </h1>
 <p align="center">
@@ -18,15 +19,16 @@
 <h2 align="center">Projetos</h2>
 <br />
 <p align="center">
-    <a href="https://github.com/MatheusLCSantos7/SocielBookProject">
-      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-    </a>
-     <a href="https://github.com/MatheusLCSantos7/GestaoDeLogistica">
-      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://github.com/MatheusLCSantos7/QuizVerificator">
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white ">
-    </a>     
+ <a href="https://github.com/MatheusLCSantos7/SocielBookProject">
+  <code><img width="10%"  src="https://user-images.githubusercontent.com/93961602/220397137-73c9cfd2-f3e7-411e-812f-ce4708f41316.svg"></code>
+ </a>
+ <a href="https://github.com/MatheusLCSantos7/GestaoDeLogistica">
+  <code><img  width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"/></code>
+ </a>
+ <a href="https://github.com/MatheusLCSantos7/QuizVerificator">
+  <code><img  width="10%"  src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
+ </a>  
+  
 </p>
 <hr>
 <h2 align="center">Languages, Frameworks and Tools 🔥</h2>
