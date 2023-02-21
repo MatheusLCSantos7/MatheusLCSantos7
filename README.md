@@ -24,7 +24,9 @@
      <a href="https://github.com/MatheusLCSantos7/GestaoDeLogistica">
       <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
     </a>
-            
+    <a href="https://github.com/MatheusLCSantos7/QuizVerificator">
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white ">
+    </a>     
 </p>
 <hr>
 <h2 align="center">Languages, Frameworks and Tools 🔥</h2>
