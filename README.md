@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Matheus+Santos;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </h1>
+<p align="center">
+      <img height="100px" src="https://github-profile-trophy.vercel.app/?username=MatheusLCSantos7" />
+</p>
 <hr>
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:matheuslcsantosnh@gmail.com)
@@ -16,11 +19,12 @@
 <br />
 <p align="center">
     <a href="https://github.com/MatheusLCSantos7/SocielBookProject">
-      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"alt="html" style="vertical-align:top; margin:4px">
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
     </a>
      <a href="https://github.com/MatheusLCSantos7/GestaoDeLogistica">
       <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
     </a>
+            
 </p>
 <hr>
 <h2 align="center">Languages, Frameworks and Tools 🔥</h2>
@@ -31,13 +35,12 @@
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width=50 src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img width=60 src="https://icongr.am/devicon/php-original.svg?size=114&color=currentColor" />
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-
 </p>
 
 <hr>
@@ -47,7 +50,7 @@
   <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusLCSantos7&hide_border=true&theme=dark" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLCSantos7&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
-<p align="center">
+    <p align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MatheusLCSantos7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
     </p>
 </details>
