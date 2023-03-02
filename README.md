@@ -17,6 +17,9 @@
  - 💻&nbsp;&nbsp; Como um DEV altamente motivado e dedicado, estou comprometido em utilizar minhas habilidades técnicas e através da tecnologia alcançar um impacto positivo na vida das pessoas tornando o mundo um lugar melhor. Acredito que minha combinação de entusiasmo, humildade e força de vontade me possibilitarão transformar minha criatividade em ideias e soluções inovadoras e eficazes.
  - 💼&nbsp;&nbsp; Sigo com objetivo de me destacar com ilimitada vontade e curiosidade sobre o mundo da tecnologia!
  - ✍🏻&nbsp;&nbsp;&nbsp;Analyst and Developer for COTEMIG
+ <h1 align="right">
+   Landing-Page
+  </h1>
  
 <h2 align="center">Projetos</h2>
 <br />
