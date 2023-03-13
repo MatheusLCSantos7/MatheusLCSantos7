@@ -14,7 +14,10 @@
   <img align="right"  width="25%"  src="https://user-images.githubusercontent.com/93961602/221878747-7b93db55-5e4d-4c0c-a278-1bc11cb53b9d.jpg">
  </a>  
 
- - 💻&nbsp;&nbsp; Como um DEV altamente motivado e dedicado, estou comprometido em utilizar minhas habilidades técnicas e através da tecnologia alcançar um impacto positivo na vida das pessoas tornando o mundo um lugar melhor. Acredito que minha combinação de entusiasmo, humildade e força de vontade me possibilitarão transformar minha criatividade em ideias e soluções inovadoras e eficazes.
+ - 💻&nbsp;&nbsp;   Como um DEV motivado, dedicado e comprometido
+                        busco sempre desenvolver soluções criativas
+                        utilizando minhas habilidades, de forma inovadora e eficaz,
+                        para impactar positivamente na vida cotidiana.
  - 💼&nbsp;&nbsp; Sigo com objetivo de me destacar com ilimitada vontade e curiosidade sobre o mundo da tecnologia!
  - ✍🏻&nbsp;&nbsp;&nbsp;Analyst and Developer for COTEMIG
  <h1 align="right">
