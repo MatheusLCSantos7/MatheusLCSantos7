@@ -3,9 +3,7 @@
     <img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Matheus+Santos;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </h1>
-<p align="center">
-      <img height="100px" src="https://github-profile-trophy.vercel.app/?username=MatheusLCSantos7" />
-</p>
+
 <hr>
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:matheuslcsantosnh@gmail.com)
